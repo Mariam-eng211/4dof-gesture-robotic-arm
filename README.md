@@ -1,3 +1,7 @@
+![Demo]
+https://github.com/user-attachments/assets/e7da7c56-6de2-4543-986d-891b5cf58105
+
+
 # 4-DOF Hand Gesture Controlled Robotic Arm
 
 A real-time gesture tracking system for a 4-DOF robotic arm using a regular webcam, OpenCV, MediaPipe, and an Arduino driver.
